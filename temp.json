@@ -1,0 +1,10 @@
+{
+    "TWO_PAIR": 0.0,
+    "THREE_OF_A_KIND": 99.0,
+    "STRAIGHT": 1.0,
+    "FLUSH": 1.5,
+    "FULL_HOUSE": 3.0,
+    "FOUR_OF_A_KIND": 10.0,
+    "STRAIGHT_FLUSH": 50.0,
+    "ROYAL_FLUSH": 500.0
+}
